@@ -1,0 +1,6 @@
+How to report and issue in GitHub
+If you find an error... 
+1. Click on the Issues tab from the tab menu bar.
+2. Select Create and Issue
+3. Include a title describing the problem
+4. In the body include a description of the issue, the folder that it is in and a link to the location where the problem occurred
